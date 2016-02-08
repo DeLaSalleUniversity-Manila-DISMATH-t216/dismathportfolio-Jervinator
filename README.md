@@ -46,4 +46,6 @@ and the concept of *Proof by Contradiction* was introduced but not furtherly dis
 
 A lot of examples were given for the methods of proof and this is a big help in understanding them further.
 
-
+#Week 5
+- The **Biconditional Statement** was discussed and when their are 2 statements p and q, both statements must be true when p implies q and q implies p. 
+- Induction and Recursive were also discussed and examples for these 2 topics confused the class.
