@@ -131,3 +131,36 @@ as its input grows.
    - No Class
 
 #Week 12
+    - Graph Theory is the main topic for this week
+    - A graph is defined as a structure that has edges and degrees and can either be finite or infinite.
+    - Applications of Graphs were presented to the class and most of them are in the field of software applications particularly in social networking sites.
+    - Paths and Circuits were also differentiated as paths cover all the edges of the graph while circuits cover all the edges and return to its starting point.
+    - As a practice for paths and circuits, the Bridges of Konisberg was presented to the class and we were asked to determine if there is a path or a circuit there.
+    - Euler Paths and Circuits were discussed and this was the proof that there is no path nor circuit in the Bridges of Konisberg 
+    - To have an Euler Path the graph must only have 2 odd vertices while to have an Euler Circuit, all of the graph's vertices should be even.
+   - Hamilton Path and Circuits were also tackled and their difference between Euler's is that Hamilton takes into consideration the nodes of the graph and not its edges.
+   - Isomorphism and Planar Graphs were also taught and a sub-related topic to this is Kuratowski's Theorem
+
+#Week 13
+   - Graph Coloring was the first topic of the week and it seems to be challenging when the graphs gets more complex
+   - Different kinds of trees were discussed and this was the rooted tree, m-ary tree and ordered tree.
+   - Automata Theory and Finite State Machines were discussed and these were the final topic for the course
+
+#Additional Readings
+    - Tree Traversal - is a form of graph traversal and refers to the process of visiting each node in a tree data structure, exactly once
+    - Spanning Tree - exists when it spans the given graph and is a subgraph of it too.
+    - Relations - Relationship of elements between two sets
+    - Properties
+      - Binary - set A to set B is a subset of A x B
+      - Reflexive - if (a, a) is an element of R for every element a in set A
+      - Symmetric - if (b, a) is an element of R whenever (a, b) is an element of R, for all a, b in set A (antisymmetric if a = b)
+      - Transitive - whenever (a, b) and (b, c) are elements of R then (a, c) is an element of R (a, b, c are in set A)
+      - Equivalence - is reflexive, symmetric and transitive;
+    - Equivalence Class (a) -set of all elements that are related to an element of A
+    - N-ary - The relationship of elements from more than two sets; A1 x A2 x An, where A - domains and n - degree
+    - Composite (S o R) - (a, b) and (b, c) are elements of R, then (a, c) is an element of R from sets A, B and C
+    - Partial Ordering - Reflective, antisymmetric and transitive relation on a set S
+    - Poset -a set taken together with a partial order on it. 
+    - Lexicographic Order - a generalization of the way the alphabetical order of words is based on the alphabetical order of their component letters.
+    - Lattices - consists of a partially ordered set in which every two elements, least upper bound or join and greatest lower bound or meet.
+    - 
